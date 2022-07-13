@@ -8,9 +8,12 @@ I used HTML, CSS and JavaScript to create this website. Mainly the most popular 
 
 ![Main Section](https://user-images.githubusercontent.com/82770183/178668025-9e5d347c-74b9-46e1-850b-ff751a4e0261.PNG)
 
-### About Section
+### About Section 01
 
 ![About Section 1](https://user-images.githubusercontent.com/82770183/178668134-9dc91402-c614-4cbf-8fe7-5e8262f00bb9.PNG)
+
+### About Section 02
+
 ![About Section 2](https://user-images.githubusercontent.com/82770183/178668127-ef0fb309-49ad-438b-a0cc-8cb62e29b7dc.PNG)
 
 ### Menu Section
