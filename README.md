@@ -1,1 +1,1 @@
-# spicy-corner-website
+# Spicy Corner Website
