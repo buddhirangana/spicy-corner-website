@@ -4,4 +4,4 @@ I used HTML, CSS and JavaScript to create this website. Mainly the most popular 
 
 ## Screenshot
 
-![SPICY CORNER](https://user-images.githubusercontent.com/82770183/178666420-2b754af7-0bf9-420a-9143-ea6bc4a5ffa4.png)
+![SPICY CORNER](https://github.com/buddhirangana/spicy-corner-website/blob/98ecc41d3be46f2417d4944b6b9d6cf08fd48aa4/demo.png)
